@@ -1,16 +1,64 @@
-# better_calc
+📱 **Better Calculator**
 
-A new Flutter project.
+Uma calculadora simples e funcional feita com Flutter, compatível com Web e Mobile.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+🎯 **Funcionalidades**
 
-A few resources to get you started if this is your first Flutter project:
+✅ Operações matemáticas básicas (+, -, x, /)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Design responsivo para se adaptar a dispositivos móveis
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Suporte para entrada decimal
+
+✅ Interface minimalista e moderna
+
+---
+
+🚀 **Como Rodar o Projeto**
+
+🔧 **Pré-requisitos**
+
+- Flutter instalado ([Guia de instalação](https://flutter.dev/docs/get-started/install))
+- Git instalado
+
+📥 **Clonar o repositório**
+
+```sh
+git clone https://github.com/SEU_USUARIO/better_calc.git
+cd better_calc
+```
+
+▶️ **Rodar no Emulador ou Celular**
+
+```sh
+flutter run
+```
+
+🌐 **Rodar no Navegador**
+
+```sh
+flutter build web
+flutter serve  # Pode usar um servidor HTTP caso necessário
+```
+
+---
+
+🖼️ **Captura de Tela**
+
+![Better Calc](https://raw.githubusercontent.com/SEU_USUARIO/better_calc/main/screenshot.png)
+
+---
+
+---
+
+📌 **Tecnologias Usadas**
+
+- Flutter
+- Dart
+- GitHub Pages (para versão web)
+
+---
+
+
