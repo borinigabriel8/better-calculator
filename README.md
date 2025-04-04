@@ -26,8 +26,8 @@ Uma calculadora simples e funcional feita com Flutter, compatível com Web e Mob
 📥 **Clonar o repositório**
 
 ```sh
-git clone https://github.com/SEU_USUARIO/better_calc.git
-cd better_calc
+git clone https://github.com/borinigabriel8/better_calculator.git
+cd better_calculator
 ```
 
 ▶️ **Rodar no Emulador ou Celular**
@@ -47,7 +47,7 @@ flutter serve  # Pode usar um servidor HTTP caso necessário
 
 🖼️ **Captura de Tela**
 
-![Better Calc](https://raw.githubusercontent.com/SEU_USUARIO/better_calc/main/screenshot.png)
+![Better Calc](https://raw.githubusercontent.com/borinigabriel8/better_calculator/main/screenshot.png)
 
 ---
 
