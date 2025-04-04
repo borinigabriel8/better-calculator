@@ -47,7 +47,7 @@ flutter serve  # Pode usar um servidor HTTP caso necessário
 
 🖼️ **Captura de Tela**
 
-![Better Calc](https://raw.githubusercontent.com/borinigabriel8/better_calculator/main/screenshot.png)
+![Better Calc](https://github.com/borinigabriel8/better-calculator/blob/main/screenshot.png)
 
 ---
 
